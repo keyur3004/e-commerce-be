@@ -1,0 +1,22 @@
+{
+  "name": "node-e-commerce",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keyur3004/e-commerce-be.git"
+  },
+  "author": "keyur trivedi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keyur3004/e-commerce-be/issues"
+  },
+  "homepage": "https://github.com/keyur3004/e-commerce-be#readme",
+  "dependencies": {
+    "prettier": "^3.0.3"
+  }
+}
